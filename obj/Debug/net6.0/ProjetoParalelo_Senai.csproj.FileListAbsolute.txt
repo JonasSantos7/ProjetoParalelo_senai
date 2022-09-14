@@ -1,0 +1,15 @@
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\bin\Debug\net6.0\ProjetoParalelo_Senai.exe
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\bin\Debug\net6.0\ProjetoParalelo_Senai.deps.json
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\bin\Debug\net6.0\ProjetoParalelo_Senai.runtimeconfig.json
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\bin\Debug\net6.0\ProjetoParalelo_Senai.dll
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\bin\Debug\net6.0\ProjetoParalelo_Senai.pdb
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\obj\Debug\net6.0\ProjetoParalelo_Senai.csproj.AssemblyReference.cache
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\obj\Debug\net6.0\ProjetoParalelo_Senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\obj\Debug\net6.0\ProjetoParalelo_Senai.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\obj\Debug\net6.0\ProjetoParalelo_Senai.AssemblyInfo.cs
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\obj\Debug\net6.0\ProjetoParalelo_Senai.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\obj\Debug\net6.0\ProjetoParalelo_Senai.dll
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\obj\Debug\net6.0\refint\ProjetoParalelo_Senai.dll
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\obj\Debug\net6.0\ProjetoParalelo_Senai.pdb
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\obj\Debug\net6.0\ProjetoParalelo_Senai.genruntimeconfig.cache
+C:\Users\jonas\Desktop\ProjetoParalelo_Senai\obj\Debug\net6.0\ref\ProjetoParalelo_Senai.dll
